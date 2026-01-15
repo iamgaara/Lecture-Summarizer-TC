@@ -1,8 +1,8 @@
 import subprocess
 import textwrap
 
-LECTURE_PATH = r"C:\Users\gaara\AppData\Local\Programs\Python\Python310\TC_PROJECT1\lecture.txt"
-SUMMARY_PATH = r"C:\Users\gaara\AppData\Local\Programs\Python\Python310\TC_PROJECT1\summary.txt"
+LECTURE_PATH = r"TC_PROJECT1\lecture.txt"
+SUMMARY_PATH = r"TC_PROJECT1\summary.txt"
 
 def summarize(text):
     prompt = f"""
