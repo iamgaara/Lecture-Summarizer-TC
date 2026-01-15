@@ -6,7 +6,7 @@ import os
 from RealtimeSTT import AudioToTextRecorder
 
 
-BASE_DIR = r"C:\Users\gaara\AppData\Local\Programs\Python\Python310\TC_PROJECT1"
+BASE_DIR = r"TC_PROJECT1"
 LECTURE_FILE = os.path.join(BASE_DIR, "lecture.txt")
 
 def record_lecture():
