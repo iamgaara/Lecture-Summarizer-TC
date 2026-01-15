@@ -128,7 +128,6 @@ Microphone → RealtimeSTT → lecture.txt → Ollama (local AI) → summary.txt
 TC_PROJECT1/
 ├── run_all.py
 ├── ollama_auto_summary.py
-├── lecture_record.py
 ├── lecture.txt
 ├── summary.txt
 ├── .gitignore
